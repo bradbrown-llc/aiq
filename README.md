@@ -1,0 +1,1 @@
+An asynchronous iterable queue.
